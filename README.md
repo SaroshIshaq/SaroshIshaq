@@ -6,6 +6,7 @@
 
 ### 🚀 What I Do & What I've Built
 
+* [cite_start]**Backend Software Engineering:** During my Software Engineering Internship at PWH Services, I developed backend logic using Python and JavaScript, actively managed PostgreSQL databases, and designed RESTful APIs[cite: 108].
 * [cite_start]**AI & Predictive Modeling:** I possess hands-on experience with Generative AI and building RAG pipelines, and I engineered a Fantasy Sports Analytics Platform using Python and Scikit-learn[cite: 109].
 * [cite_start]**Systems Development:** Additionally, I developed a standalone Algorithmic Clustering Engine in C++ for high-dimensional data[cite: 110].
 * [cite_start]**Mobile Development:** I actively build and expand my skill set, and I have knowledge of Flutter for developing cross-platform applications[cite: 111].
@@ -19,4 +20,3 @@
 * [cite_start]**Backend & Systems:** PostgreSQL, RESTful APIs, JavaScript, C++[cite: 115].
 * [cite_start]**Mobile Development:** Flutter[cite: 115].
 * [cite_start]**Workflow & Version Control:** Git/GitHub, Agile methodology, code reviews, and collaborative debugging[cite: 116].
-Workflow & Version Control: Git/GitHub, Agile methodology, code reviews, and collaborative debugging.
